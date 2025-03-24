@@ -1,0 +1,7 @@
+services:
+  bau-bot:
+    build: .
+    container_name: bau-bot
+    env_file:
+      shit.env
+    restart: always

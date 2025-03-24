@@ -1,1 +1,4 @@
 shit.env
+venv/
+__pycache__/
+user_data.json
